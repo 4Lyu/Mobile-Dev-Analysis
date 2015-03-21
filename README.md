@@ -29,14 +29,14 @@ Analysis of android or java
 | Projects                                           | Member   | Buddy  |
 | :------------------------------------------------- | :------- | :--:   |
 | Android view                                       |          |        |
-| Java以及Android网络请求（TCP,UDP,HTTP)             |  4Lyu    |        |
+| Java以及Android网络请求（TCP,UDP,HTTP)             |      |        |
 | Android图片处理                                    |          |        |
 | Android多媒体开发                                  |          |        |
 | Java类集框架原理以及实现                           |          |        |
 | Java并发(多线程等)                                 |          |        |
 | NDK                                                |          |        |
-| Android四大组件（一）：activity，service           |          |        |
-| Android四大组件（二）：contentprovider，broadcaster|          |        |
+| Android四大组件（一）：activity，service           |   4Lyu   |        |这个满了 就下面那个
+| Android四大组件（二）：contentprovider，broadcaster|    4Lyu  |        |
 | Android数据通信（AIDL等）                          |          |        |
 | Android插件化（Java类加载）                        |          |        |
 
