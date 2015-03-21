@@ -28,8 +28,8 @@ Analysis of android or java
 
 | Projects                                           | Member   | Buddy  |
 | :------------------------------------------------- | :------- | :--:   |
-| Android view                                       |   4Lyu   |        |
-| Java以及Android网络请求（TCP,UDP,HTTP)             |          |        |
+| Android view                                       |          |        |
+| Java以及Android网络请求（TCP,UDP,HTTP)             |  4Lyu    |        |
 | Android图片处理                                    |          |        |
 | Android多媒体开发                                  |          |        |
 | Java类集框架原理以及实现                           |          |        |
